@@ -1,0 +1,2 @@
+# SugarCRMEntryPoints
+SugarCRM EntryPoints
