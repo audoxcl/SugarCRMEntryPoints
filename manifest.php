@@ -34,12 +34,12 @@ $installdefs = array(
 	'copy' => array(
 		array(
 			'from' => '<basepath>/WebToOpportunity.php',
-			'to' => 'custom/modules/Opportunities/WebToOpportunity.php',
+			'to' => 'custom/WebToOpportunity.php',
 		),
 	),
 	'entrypoints' => array(
 		array(
-			'from' => '<basepath>/CustomReportsEntryPoint.php',
+			'from' => '<basepath>/CustomEntryPoints.php',
 			'to_module' => 'application',
 			),
 		),
