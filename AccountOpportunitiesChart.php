@@ -45,10 +45,6 @@ $sales_stage['rows'] = $rows;
 
 $sales_stage = json_encode($sales_stage);
 
-// echo "<pre>";
-// var_dump($app_strings);
-// die;
-
 ?>
 
 <html>
