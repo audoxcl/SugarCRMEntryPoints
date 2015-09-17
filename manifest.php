@@ -36,6 +36,10 @@ $installdefs = array(
 			'from' => '<basepath>/WebToOpportunity.php',
 			'to' => 'custom/WebToOpportunity.php',
 		),
+		array(
+			'from' => '<basepath>/AccountOpportunitiesChart.php',
+			'to' => 'custom/AccountOpportunitiesChart.php',
+		),
 	),
 	'entrypoints' => array(
 		array(
